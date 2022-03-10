@@ -12,6 +12,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 	</head>
 	<body class="is-preload">
 
@@ -87,13 +88,13 @@
 									</header>
 									<ul>
 										<li><a href="index.html">Home</a></li>
-										<li><a href="work.html">Work Experience</a></li>
-										<li><a href="projects.html">Past Projects</a></li>
+										<li><a href="work">Work Experience</a></li>
+										<li><a href="projects">Past Projects</a></li>
 										<li>
 											<span class="opener">Accomplishments</span>
 											<ul>
-												<li><a href="publications.html">Publications</a></li>
-												<li><a href="awards.html">Awards</a></li>
+												<li><a href="publications">Publications</a></li>
+												<li><a href="awards">Awards</a></li>
 									</ul>
 								</nav>
 
